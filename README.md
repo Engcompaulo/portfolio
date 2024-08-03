@@ -1,6 +1,6 @@
 # Portfólio 
 
 ### In English 
-    [Curriculum](ENG.md)
+[Curriculum online](ENG.md)
 ### Portuguese Brazil
-    [Curriculum](PTBR.md)
+[Currículo online](PTBR.md)
